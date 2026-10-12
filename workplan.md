@@ -1,10 +1,14 @@
-# **The workplan**  
-### our workplan  
+# **The Recipe**   
 
 
-## The first step in our recipe  
-## The Second step in the recipe  
-i think bla  
+## The First Step
+Make a cooking plan! 
+
+## The Second Step  
+Prepare the cooking.
+
+## The Third Step
+Start cooking!
 
 ## how to <ins> push </ins> things into the document:   
 1. change something in the text  
