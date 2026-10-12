@@ -1,16 +1,14 @@
-The workplan
-our workplan
+# **The workplan**  
+### our workplan  
 
 
-The first step in our recipe
-The Second step in the recipe
-i think bla
+## The first step in our recipe  
+## The Second step in the recipe  
+i think bla  
 
-how to push things into the document: 
-step one - change something in the text 
-step two - git add documentyouareworkingin.md
-step three - git commit -m 'new text description'
-step four - push origin mybranch
-step five -- now go to github and submit pull request
-
-text added
+## how to <ins> push </ins> things into the document:   
+1. change something in the text  
+2. git add documentyouareworkingin.md  
+3. git commit -m 'new text description'  
+4. git push origin mybranch  
+5. now go to github and submit pull request  
